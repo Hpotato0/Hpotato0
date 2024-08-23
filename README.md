@@ -1,4 +1,4 @@
-email: hpotato@snu.ac.kr
+email: jhju@gatech.edu
 
 <!---
 Hpotato0/Hpotato0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
